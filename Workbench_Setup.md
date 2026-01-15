@@ -351,24 +351,6 @@ tar -zxvf file.tar.gz
 * Wechat
 * Vscode
 
----
-
-## 6. 常用工具配置
-
-### 6.1 SSH Server
-
-```bash
-sudo apt install -y openssh-server
-sudo systemctl start ssh
-sudo systemctl enable ssh
-```
-
-检查运行状态：
-
-```bash
-ps aux | grep sshd
-```
-
 
 ---
 
