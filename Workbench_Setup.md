@@ -336,15 +336,22 @@ tar -zxvf file.tar.gz
 
 ---
 
-### 5.5 小结
+### 5.5 应用桌面快捷方式建立
+
+参考 https://blog.csdn.net/zi_longh/article/details/123968434
+
+---
+
+### 5.6 小结
 
 * Ubuntu / Debian 系优先使用 `.deb` 安装包
 * 压缩包形式的软件需手动解压与管理
 * 不要将手动安装的软件放入 `snap/` 目录
 * 能被系统包管理器管理的软件，优先交由系统管理
 
+---
 
-### 5.6 常见软件目录
+### 5.7 常见软件目录
 
 * WPS Office
 * Google Chrome
