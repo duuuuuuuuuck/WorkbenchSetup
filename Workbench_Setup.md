@@ -784,29 +784,6 @@ Visual Studio Code（VS Code）是 Linux 环境下常用的轻量级开发编辑
 
 合理配置 VS Code 扩展，可以在 Linux 环境下形成高效、统一的开发与写作工作流。
 
-## 8. Python / 深度学习环境配置
-
-### 8.1 Anaconda
-
-* Python 虚拟环境管理工具
-* 支持多 Python 版本并存
-* 强烈推荐科研环境使用
-
-参考教程：
-[https://blog.csdn.net/2302_76211938/article/details/155226164](https://blog.csdn.net/2302_76211938/article/details/155226164)
-
-常用命令：
-
-```bash
-conda install <libname>
-conda uninstall <libname>
-conda list
-```
-
----
-
-下面是在**保持原有结构与技术内容**的基础上，对第八部分进行的**规范化与适度增强版本**。整体风格与前文一致，偏向使用说明而非教程展开。
-
 ---
 
 ## 8. Python / 深度学习环境配置
@@ -1020,3 +997,4 @@ conda install numpy scipy matplotlib pandas
 
 
 ## 至此，用于深度强化学习的工作站软件与开发环境已完成基础配置。需要注意的是，该环境并非一劳永逸，后续仍需根据具体研究任务、软件版本更新及硬件变化进行持续维护与调整。
+
